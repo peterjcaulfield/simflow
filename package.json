@@ -1,0 +1,20 @@
+{
+  "name": "simflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterjcaulfield/simflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterjcaulfield/simflow/issues"
+  },
+  "homepage": "https://github.com/peterjcaulfield/simflow#readme"
+}
