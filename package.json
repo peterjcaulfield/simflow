@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/peterjcaulfield/simflow/issues"
   },
-  "homepage": "https://github.com/peterjcaulfield/simflow#readme"
+  "homepage": "https://github.com/peterjcaulfield/simflow#readme",
+  "devDependencies": {
+    "cucumber": "^4.0.0",
+    "jest": "^22.4.2"
+  }
 }
